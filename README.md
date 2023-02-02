@@ -1,7 +1,7 @@
 ![hacking yey](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)
 
 # `$ sudo hi`
-<h5 align="center">A Computer Science Major with Minor in Business Management, with a strong interest in network security, penetration testing, and ethical hacking.
+<h5 align="center">A Computer Science Major with Minor in Business Management, with a strong interest in network security, penetration testing, and ethical hacking.<br>
 I help various organizations by securing them via Vulnerability Responsible Disclosure Programs, yes! I'm a bug bounty hunter. Individual who is technically minded, active, and hardworking. Excellent multitasking and problem-solving skills.</h5>
 
 
