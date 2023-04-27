@@ -1,7 +1,7 @@
 ![hacking yey](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)
 
 # `$sudo hi`
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Security+Researcher;Certified+Information+Security+&+Ethical+Hacker;Certified+Penetration+Testing+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Security+Researcher;Certified+Information+Security+and+Ethical+Hacker;Certified+Penetration+Testing+Expert)](https://git.io/typing-svg)
 <h5 align="center">A Computer Science Major with Minor in Business Management, with a strong interest in network security, penetration testing, and ethical hacking.<br>
 I help various organizations by securing them via Vulnerability Responsible Disclosure Programs, yes! I'm a bug bounty hunter. Individual who is technically minded, active, and hardworking with multitasking and problem-solving skills.</h5>
 
